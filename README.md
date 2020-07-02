@@ -5,11 +5,6 @@
   <img alt="License" src="https://img.shields.io/github/license/Espeto/nodejs-fundamentals">
 </p>
 
-## Ferramentas
-
-- ExpressJS
-- Uuidv4
-
 ## Conceitos Utilizados
 
 - Models
